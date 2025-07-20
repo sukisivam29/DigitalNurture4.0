@@ -13,6 +13,7 @@ Full-stack application development with Spring Boot and React
 DevOps tools and microservices architecture
 
 🗓️ Weekly Breakdown
+
 ✅ Week 1: Engineering Concepts – Design Patterns & SOLID Principles, Data Structures and Algorithms
 📌 Topics: SRP, OCP, LSP, ISP, DIP, Creational/Structural/Behavioral Patterns, Arrays, Linked Lists, Stacks, Queues, Sorting & Searching, Big-O Analysis
 
