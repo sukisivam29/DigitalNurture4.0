@@ -29,7 +29,10 @@ DevOps tools and microservices architecture
 ✅ Week 5: Microservices & Spring Cloud
 📌 Topics: Eureka, Feign Client, API Gateway, Config Server, JWT, Circuit Breaker
 
-->Week 6, 7, 8 will be updated soon....
+✅ Week 6: React JS
+📌 Topics: React JS
+
+->Week 7, 8 will be updated soon....
 
 🛠️ Tools & Tech Stack
 Java 17, Spring Boot 3, Maven
