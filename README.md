@@ -77,7 +77,7 @@ The **Java Full Stack Deep Skilling Program** is aimed at building industry-read
 
 ## 📌 Connect With Me
 
-- ✉️ [Email Me](sukisivam2829.ss@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sukisivam-balakrishnan-b6718a280/))
+- ✉️ [Email Me](mailto:sukisivam2829.ss@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sukisivam-balakrishnan-b6718a280/)
 
 ---
