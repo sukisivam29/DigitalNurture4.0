@@ -1,44 +1,83 @@
-🚀 Java Full Stack Engineer – 8-Week Deep Skilling Journey
-Welcome to my learning repository for the Digital Nurture 4.0 - Java FSE Deep Skilling Program. This repository showcases all my learnings, hands-on exercises, and self-evaluated solutions over the span of 8 weeks of intense and structured training.
+# 🚀 Java Full Stack Engineer – 8-Week Deep Skilling Journey
 
-📚 Program Overview
-The Java Full Stack Deep Skilling Program is designed to build end-to-end competency in:
+Welcome to my **Digital Nurture 4.0 - Java FSE Deep Skilling** GitHub repository!  
+This repository showcases my structured learnings, hands-on labs, and self-evaluated exercises over the span of 8 intensive weeks 🚧.
 
-Core engineering concepts
+---
 
-Java and database programming
+## 📚 Program Overview
 
-Full-stack application development with Spring Boot and React
+The **Java Full Stack Deep Skilling Program** is aimed at building industry-ready full stack developers through end-to-end competency in:
 
-DevOps tools and microservices architecture
+- ✅ Core Engineering & OOP Concepts
+- ✅ Java and Database Programming
+- ✅ Full-Stack Application Development using Spring Boot & React
+- ✅ Microservices, DevOps, and Cloud Architecture
 
-🗓️ Weekly Breakdown
+---
 
-✅ Week 1: Engineering Concepts – Design Patterns & SOLID Principles, Data Structures and Algorithms
-📌 Topics: SRP, OCP, LSP, ISP, DIP, Creational/Structural/Behavioral Patterns, Arrays, Linked Lists, Stacks, Queues, Sorting & Searching, Big-O Analysis
+## 🗓️ Weekly Breakdown
 
-✅ Week 2: PL/SQL Programming, Test Driven Development & Logging Framework
-📌 Topics: Procedures, Triggers, Cursors, Exception Handling, JUnit 5, Mockito, SLF4J Logging, AAA pattern
+| Week | Topics Covered | Highlights |
+|------|----------------|------------|
+| ✅ **Week 1** | **Engineering Concepts & DSA** | SOLID Principles, Design Patterns, Arrays, Linked Lists, Sorting, Big-O |
+| ✅ **Week 2** | **PL/SQL, TDD, Logging** | Procedures, Triggers, JUnit 5, Mockito, AAA Pattern, SLF4J |
+| ✅ **Week 3** | **Spring Core, JPA & Hibernate** | Spring IoC, DI, BeanFactory vs AppContext, ORM Mapping |
+| ✅ **Week 4** | **RESTful API Development** | REST Controllers, DTOs, Spring Security, Swagger, HATEOAS |
+| ✅ **Week 5** | **Microservices with Spring Cloud** | Eureka, Feign, API Gateway, Config Server, JWT, Circuit Breaker |
+| ✅ **Week 6** | **React JS – Essentials** | JSX, Functional Components, Props, State, Event Handling |
+| ✅ **Week 7** | **React JS – Advanced Concepts** | Conditional Rendering, Lists with `map()`, Keys, React Router, Component Extraction |
+| 🕐 **Week 8** | *Coming Soon* | DevOps, CI/CD, Docker, Kubernetes 🔧 |
 
-✅ Week 3: Spring Core, Maven, Spring Data JPA, Hibernate
-📌 Topics: Spring IoC, DI, BeanFactory vs ApplicationContext, ORM with Hibernate
+---
 
-✅ Week 4: RESTful APIs using Spring Boot
-📌 Topics: REST Controllers, DTOs, HATEOAS, Spring Security, Swagger
+## 🛠️ Tools & Tech Stack
 
-✅ Week 5: Microservices & Spring Cloud
-📌 Topics: Eureka, Feign Client, API Gateway, Config Server, JWT, Circuit Breaker
+### 💻 Languages & Frameworks
+- Java 17
+- Spring Boot 3
+- React.js
+- PL/SQL
 
-✅ Week 6: React JS
-📌 Topics: React JS
+### 🧰 Dev Tools
+- Maven, IntelliJ IDEA, VS Code  
+- Postman, Git & GitHub
 
-->Week 7, 8 will be updated soon....
+### 🧪 Testing
+- JUnit 5
+- Mockito
 
-🛠️ Tools & Tech Stack
-Java 17, Spring Boot 3, Maven
+### 📦 Others
+- Hibernate
+- SLF4J Logging
+- REST & Swagger
+- React Router DOM
 
-MySQL, PL/SQL, Hibernate
+---
 
-JUnit 5, Mockito, SLF4J
+## 📂 Repository Contents
 
-IntelliJ IDEA / VS Code
+- 📁 `week1/` – Engineering & DSA Exercises  
+- 📁 `week2/` – PL/SQL Queries & TDD Samples  
+- 📁 `week3/` – Spring Core + JPA Lab  
+- 📁 `week4/` – REST API with Spring Boot  
+- 📁 `week5/` – Microservices & Cloud Setup  
+- 📁 `week6/` – React Basics (JSX, Props, State)  
+- 📁 `week7/` – React Advanced + Projects  
+- 📁 `week8/` – *(Coming Soon...)*  
+
+---
+
+## 🌟 What’s Special?
+
+> 💡 This repo is a journey from **zero to production-level full stack development**.  
+> It captures not just hands-on code, but **concept clarity**, **best practices**, and **project-based learning**.
+
+---
+
+## 📌 Connect With Me
+
+- ✉️ [Email Me](sukisivam2829.ss@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sukisivam-balakrishnan-b6718a280/))
+
+---
