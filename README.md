@@ -27,7 +27,7 @@ The **Java Full Stack Deep Skilling Program** is aimed at building industry-read
 | ✅ **Week 5** | **Microservices with Spring Cloud** | Eureka, Feign, API Gateway, Config Server, JWT, Circuit Breaker |
 | ✅ **Week 6** | **React JS – Essentials** | JSX, Functional Components, Props, State, Event Handling |
 | ✅ **Week 7** | **React JS – Advanced Concepts** | Conditional Rendering, Lists with `map()`, Keys, React Router, Component Extraction |
-| 🕐 **Week 8** | *Coming Soon* | DevOps, CI/CD, Docker, Kubernetes 🔧 |
+| ✅ **Week 8** | **Version Control, DevOps, CI/CD, Cloud** | DevOps, CI/CD, Docker, Kubernetes 🔧 |
 
 ---
 
@@ -64,7 +64,7 @@ The **Java Full Stack Deep Skilling Program** is aimed at building industry-read
 - 📁 `week5/` – Microservices & Cloud Setup  
 - 📁 `week6/` – React Basics (JSX, Props, State)  
 - 📁 `week7/` – React Advanced + Projects  
-- 📁 `week8/` – *(Coming Soon...)*  
+- 📁 `week8/` – Version Control, DevOps, Docker, Cloud Fundamentals 
 
 ---
 
